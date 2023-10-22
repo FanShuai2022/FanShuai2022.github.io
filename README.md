@@ -1,4 +1,5 @@
-![Outshine_Logo](https://github.com/FanShuai2022/FanShuai2022.github.io/assets/122126773/caffb39b-0fd9-41cf-944c-da910017b3d7)
+![Outshine_Logo](https://github.com/FanShuai2022/FanShuai2022.github.io/assets/122126773/76dfea46-9042-42e5-ab1b-5eb50e30ae90)
+
 
 # Outshine Education Center-Computer Science Class 
 **Coding, game development learning for kids and teens requires no prior coding experience**:+1: 
